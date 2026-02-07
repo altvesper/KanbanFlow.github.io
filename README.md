@@ -6,7 +6,7 @@ Dikembangkan menggunakan Vanilla JavaScript murni tanpa ketergantungan pada libr
 
 ## Demo Aplikasi
 
-[Tautkan Link GitHub Pages atau Demo Langsung Di Sini]
+https://altvesper.github.io/KanbanFlow.github.io/
 
 ## Fitur Utama
 
